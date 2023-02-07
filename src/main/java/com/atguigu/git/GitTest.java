@@ -11,5 +11,9 @@ public class GitTest {
         System.out.println("hello git");
         System.out.println("hello git");
         System.out.println("master");
+        System.out.println("test in computer");
+         System.out.println("pull success!");
+        
+        
     }
 }
